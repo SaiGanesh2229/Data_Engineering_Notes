@@ -1,0 +1,4 @@
+Product, Region, Q1_Sales, Q2_Sales,Price,Discount
+Laptop,North,15000,18000,55000,5500.0
+Phone, South,30000,32000,26000,2600.0
+Monitor, West,25000,27000,40000,4000.0

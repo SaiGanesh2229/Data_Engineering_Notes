@@ -1,0 +1,9 @@
+[
+  {"EmployeeID":101,"Name": "Rajesh","Department": "HR","Age": 29,"Salary": 70000,"City": "Delhi"},
+  {"EmployeeID":102,"Name": "Meena","Department": "IT","Age": 35,"Salary": 85000,"City": "Mumbai"},
+  {"EmployeeID":103,"Name": "Suresh","Department": "Finance","Age": 45,"Salary": 95000,"City": "Bangalore"},
+  {"EmployeeID":104,"Name": "Anita","Department": "IT","Age": 32,"Salary": 64000,"City": "Chennai"},
+  {"EmployeeID":105,"Name": "Vijay","Department": "Finance","Age": 50,"Salary": 120000,"City": "Delhi"},
+  {"EmployeeID":101,"Name": "Neeta","Department": "HR","Age": 28,"Salary": 72000,"City": "Mumbai"}
+
+]
